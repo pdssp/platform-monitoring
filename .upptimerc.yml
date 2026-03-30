@@ -1,21 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CNES # Your GitHub organization or username, where this repository lives
+repo: pdssp/platform-monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Keycloak authentification
+    url: https://auth.157.136.252.249.nip.io
+  - name: Grafana monitoring
+    url: https://grafana.157.136.252.249.nip.io
+  - name: XYZ Rosetta
+    url: https://xyz-rosetta.157.136.252.249.nip.io
+  - name: SFEOS
+    url: https://stac.157.136.252.249.nip.io
+  - name: STAC Planet UI
+    url: https://stacplanet.157.136.252.249.nip.io
+  - name: Antflow
+    url: https://antflow.157.136.252.249.nip.io
+  - name: Antflow STAC Browser
+    url: https://stac-browser.antflow.157.136.252.249.nip.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
