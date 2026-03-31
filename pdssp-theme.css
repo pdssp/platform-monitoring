@@ -1,0 +1,59 @@
+/*
+ * PDSSP Custom Theme for Upptime
+ * Based on: https://github.com/upptime/status-page/blob/HEAD/static/themes/dark.css
+ *
+ * Place this file in: assets/pdssp-theme.css
+ * Then reference it in .upptimerc.yml with:
+ *   themeUrl: https://pdssp.github.io/platform-monitoring/pdssp-theme.css
+ */
+
+/* ── CSS Variables (overrides Upptime dark theme defaults) ── */
+:root {
+  /* Backgrounds */
+  --body-background-color:       #0D1117;
+  --card-background-color:       #161B22;
+  --nav-background-color:        #0D1117;
+
+  /* Borders */
+  --nav-border-bottom-color:     #1B75BB;  /* CNES Blue accent on navbar */
+  --card-border-color:           #21262D;
+
+  /* Text */
+  --body-text-color:             #E6EDF3;
+  --nav-link-color:              #00AEEF;  /* Light CNES blue for links */
+  --footer-text-color:           #8B949E;
+
+  /* Status colors */
+  --color-success:               #2EA043;
+  --color-warning:               #D29922;
+  --color-danger:                #DA3633;
+}
+
+/* ── Typography ── */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* ── Navbar ── */
+nav a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/* ── Cards ── */
+.status-card,
+article {
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.status-card:hover,
+article:hover {
+  box-shadow: 0 0 0 1px #1B75BB;
+}
+
+/* ── Logo ── */
+nav img,
+.logo img {
+  border-radius: 50%;
+}
