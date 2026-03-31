@@ -1,6 +1,9 @@
-# Change these first
-owner: pdssp # Your GitHub organization or username, where this repository lives
-repo: platform-monitoring # The name of this repository
+# ============================================================
+# Upptime configuration — PDSSP Platform Monitoring
+# ============================================================
+
+owner: pdssp                 # Your GitHub organization or username, where this repository lives
+repo: platform-monitoring    # The name of this repository
 
 sites:
   - name: Keycloak authentification
@@ -23,15 +26,39 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /platform-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the PDSSP platform status page to monitor STAC Planet services
+
+  # PDSSP organization logo (GitHub avatar)
+  logoUrl: https://avatars.githubusercontent.com/u/82669870?s=200&v=4
+
+  # Favicon
+  faviconSvg: https://avatars.githubusercontent.com/u/82669870?s=200&v=4
+
+  # Name displayed in the header
+  name: PDSSP Platform Status
+
+  # Custom theme file — place this file in the assets/ directory of your repo
+  # See assets/pdssp-theme.css below
+  themeUrl: https://pdssp.github.io/platform-monitoring/pdssp-theme.css
+
+  # Introduction
+  introTitle: "**PDSSP** — Platform Services Status"
+  introMessage: >
+    Real-time monitoring dashboard for the STAC Planet services of the Planetary
+    Surface Data and Services Hub (PDSSP / CNES / INSU). Automatically updated every
+    5 minutes via GitHub Actions.
+
+  # Navigation bar
   navbar:
     - title: Status
       href: /
+    - title: PDSSP
+      href: https://pdssp.github.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+  # Inject Google Fonts in <head>
+  customHeadHtml: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">'
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
