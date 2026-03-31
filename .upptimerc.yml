@@ -51,6 +51,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Dashboard
+      href: https://pdssp.github.io/monitoring-dashboard/dashboard.html      
     - title: PDSSP
       href: https://pdssp.github.io
     - title: GitHub
