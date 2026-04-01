@@ -34,6 +34,10 @@ sites:
     url: https://stac-browser.antflow.157.136.252.249.nip.io
     maxResponseTime: 3000  
 
+  - name: Rosetta 3D Web site
+    url: https://rosetta-3d.lafabrique02-cnes.fr/
+    maxResponseTime: 1000
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
