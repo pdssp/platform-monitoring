@@ -35,7 +35,7 @@ sites:
     maxResponseTime: 3000  
 
   - name: Rosetta 3D Web site
-    url: https://rosetta-3d.lafabrique02-cnes.fr
+    url: https://rosetta-3dcomet.cnes.fr
     maxResponseTime: 3000
 
 status-website:
