@@ -35,8 +35,8 @@ sites:
     maxResponseTime: 3000  
 
   - name: Rosetta 3D Web site
-    url: https://rosetta-3d.lafabrique02-cnes.fr/
-    maxResponseTime: 1000
+    url: https://rosetta-3d.lafabrique02-cnes.fr
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
