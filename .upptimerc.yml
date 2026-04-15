@@ -38,6 +38,10 @@ sites:
     url: https://rosetta-3dcomet.cnes.fr
     maxResponseTime: 3000
 
+  - name: ODE STAC
+    url: https://ode-stac.157.136.252.249.nip.io
+    maxResponseTime: 3000
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
