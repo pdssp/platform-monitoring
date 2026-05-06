@@ -1,7 +1,7 @@
 url: https://ode-stac.157.136.252.249.nip.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-06T11:29:07.928Z
+status: up
+code: 200
+responseTime: 570
+lastUpdated: 2026-05-06T15:35:11.123Z
 startTime: 2026-04-15T17:47:49.603Z
 generator: Upptime <https://github.com/upptime/upptime>
