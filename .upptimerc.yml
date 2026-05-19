@@ -5,42 +5,39 @@
 owner: pdssp                 # Your GitHub organization or username, where this repository lives
 repo: platform-monitoring    # The name of this repository
 
-sites:
-  - name: Keycloak authentification
-    url: https://auth.157.136.252.249.nip.io
-    maxResponseTime: 3000  
- 
-  - name: Grafana monitoring
-    url: https://grafana.157.136.252.249.nip.io
-    maxResponseTime: 3000  
- 
-  - name: XYZ Rosetta
-    url: https://xyz-rosetta.157.136.252.249.nip.io
-    maxResponseTime: 1000  
- 
-  - name: SFEOS
-    url: https://stac.157.136.252.249.nip.io
-    maxResponseTime: 2000  
- 
-  - name: STAC Planet UI
-    url: https://stacplanet.157.136.252.249.nip.io
-    maxResponseTime: 3000  
- 
+sites: 
+  # STAC Planet services to monitor
+  - name: STAC Planet
+    url: https://stacplanet.pdssp.eu
+    maxResponseTime: 3000
+  - name: STAC Catalog
+    url: https://stac.stacplanet.pdssp.eu
+    maxResponseTime: 2000
   - name: Antflow
-    url: https://antflow.157.136.252.249.nip.io
+    url: https://antflow.stacplanet.pdssp.eu
     maxResponseTime: 1000  
- 
   - name: Antflow STAC Browser
-    url: https://stac-browser.antflow.157.136.252.249.nip.io
+    url: https://stac-browser.antflow.stacplanet.pdssp.eu
+    maxResponseTime: 3000
+  - name: ODE STAC
+    url: https://odestac.stacplanet.pdssp.eu
+    maxResponseTime: 3000
+  - name: Mapproxy
+    url: https://mapproxy.stacplanet.pdssp.eu
+    maxResponseTime: 3000
+  - name: Authentication
+    url: https://auth.stacplanet.pdssp.eu
     maxResponseTime: 3000  
-
+  - name: Monitoring dashboards
+    url: https://grafana.stacplanet.pdssp.eu
+    maxResponseTime: 3000  
+  # Planetary Science Lab services to monitor
   - name: Rosetta 3D Web site
     url: https://rosetta-3dcomet.cnes.fr
     maxResponseTime: 3000
-
-  - name: ODE STAC
-    url: https://ode-stac.157.136.252.249.nip.io
-    maxResponseTime: 3000
+  - name: XYZ Rosetta
+    url: https://xyz-rosetta.psl.pdssp.eu
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
