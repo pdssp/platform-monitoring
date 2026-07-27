@@ -4,12 +4,12 @@
     "url": "https://stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stacplanet.pdssp.eu.ico",
     "slug": "stac-planet",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.79%",
     "time": 602,
     "timeDay": 390,
     "timeWeek": 526,
@@ -17,7 +17,8 @@
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-06-04": 85,
-      "2026-07-05": 85
+      "2026-07-05": 85,
+      "2026-07-27": 39
     }
   },
   {
@@ -25,12 +26,12 @@
     "url": "https://stac.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stac.stacplanet.pdssp.eu.ico",
     "slug": "stac-catalog",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.80%",
     "time": 622,
     "timeDay": 593,
     "timeWeek": 611,
@@ -38,7 +39,8 @@
     "timeYear": 622,
     "dailyMinutesDown": {
       "2026-06-04": 84,
-      "2026-07-05": 80
+      "2026-07-05": 80,
+      "2026-07-27": 34
     }
   },
   {
@@ -46,12 +48,12 @@
     "url": "https://antflow.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/antflow.stacplanet.pdssp.eu.ico",
     "slug": "antflow",
-    "status": "up",
-    "uptime": "80.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "80.38%",
+    "status": "down",
+    "uptime": "80.44%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "80.44%",
     "time": 544,
     "timeDay": 393,
     "timeWeek": 557,
@@ -87,7 +89,8 @@
       "2026-05-19": 850,
       "2026-05-18": 900,
       "2026-06-04": 84,
-      "2026-07-05": 75
+      "2026-07-05": 75,
+      "2026-07-27": 29
     }
   },
   {
@@ -95,12 +98,12 @@
     "url": "https://stac-browser.antflow.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stac-browser.antflow.stacplanet.pdssp.eu.ico",
     "slug": "antflow-stac-browser",
-    "status": "up",
-    "uptime": "80.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "80.38%",
+    "status": "down",
+    "uptime": "80.44%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "80.44%",
     "time": 518,
     "timeDay": 689,
     "timeWeek": 554,
@@ -136,7 +139,8 @@
       "2026-05-19": 850,
       "2026-05-18": 900,
       "2026-06-04": 83,
-      "2026-07-05": 70
+      "2026-07-05": 70,
+      "2026-07-27": 25
     }
   },
   {
@@ -144,12 +148,12 @@
     "url": "https://odestac.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/odestac.stacplanet.pdssp.eu.ico",
     "slug": "ode-stac",
-    "status": "up",
-    "uptime": "84.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "84.31%",
+    "status": "down",
+    "uptime": "84.37%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "84.37%",
     "time": 669,
     "timeDay": 403,
     "timeWeek": 611,
@@ -176,7 +180,8 @@
       "2026-05-19": 850,
       "2026-05-18": 900,
       "2026-06-04": 83,
-      "2026-07-05": 65
+      "2026-07-05": 65,
+      "2026-07-27": 20
     }
   },
   {
@@ -184,12 +189,12 @@
     "url": "https://mapproxy.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mapproxy.stacplanet.pdssp.eu.ico",
     "slug": "mapproxy",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 494,
     "timeDay": 574,
     "timeWeek": 470,
@@ -197,7 +202,8 @@
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-06-04": 82,
-      "2026-07-05": 61
+      "2026-07-05": 61,
+      "2026-07-27": 15
     }
   },
   {
@@ -205,12 +211,12 @@
     "url": "https://auth.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/auth.stacplanet.pdssp.eu.ico",
     "slug": "authentication",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 994,
     "timeDay": 1423,
     "timeWeek": 1278,
@@ -218,7 +224,8 @@
     "timeYear": 994,
     "dailyMinutesDown": {
       "2026-06-04": 82,
-      "2026-07-05": 56
+      "2026-07-05": 56,
+      "2026-07-27": 10
     }
   },
   {
@@ -226,12 +233,12 @@
     "url": "https://grafana.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.stacplanet.pdssp.eu.ico",
     "slug": "monitoring-dashboards",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.87%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.86%",
     "time": 969,
     "timeDay": 853,
     "timeWeek": 1020,
@@ -239,7 +246,8 @@
     "timeYear": 969,
     "dailyMinutesDown": {
       "2026-06-04": 81,
-      "2026-07-05": 51
+      "2026-07-05": 51,
+      "2026-07-27": 5
     }
   },
   {
@@ -267,12 +275,12 @@
     "url": "https://xyz-rosetta.psl.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/xyz-rosetta.psl.pdssp.eu.ico",
     "slug": "xyz-rosetta",
-    "status": "up",
-    "uptime": "81.39%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.46%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "81.39%",
+    "uptimeYear": "81.46%",
     "time": 489,
     "timeDay": 369,
     "timeWeek": 402,
@@ -307,7 +315,8 @@
       "2026-04-22": 1440,
       "2026-04-21": 24,
       "2026-06-04": 81,
-      "2026-07-05": 46
+      "2026-07-05": 46,
+      "2026-07-27": 0
     }
   }
 ]
