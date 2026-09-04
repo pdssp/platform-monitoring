@@ -1,7 +1,7 @@
 url: https://mapproxy.stacplanet.pdssp.eu
-status: up
-code: 200
-responseTime: 436
-lastUpdated: 2026-09-04T00:47:20.309Z
+status: down
+code: 503
+responseTime: 296
+lastUpdated: 2026-09-04T17:01:15.207Z
 startTime: 2026-05-19T14:19:00.855Z
 generator: Upptime <https://github.com/upptime/upptime>
