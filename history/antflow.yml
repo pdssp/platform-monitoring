@@ -1,7 +1,7 @@
 url: https://antflow.stacplanet.pdssp.eu
-status: up
+status: degraded
 code: 200
-responseTime: 572
-lastUpdated: 2026-09-15T10:11:15.233Z
+responseTime: 1164
+lastUpdated: 2026-09-15T18:47:22.315Z
 startTime: 2026-03-30T14:40:56.892Z
 generator: Upptime <https://github.com/upptime/upptime>
