@@ -1,7 +1,7 @@
 url: https://grafana.stacplanet.pdssp.eu
-status: down
-code: 503
-responseTime: 531
-lastUpdated: 2026-09-14T22:12:54.002Z
+status: up
+code: 200
+responseTime: 1406
+lastUpdated: 2026-09-15T00:38:22.750Z
 startTime: 2026-05-19T14:19:03.464Z
 generator: Upptime <https://github.com/upptime/upptime>
