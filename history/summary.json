@@ -58,17 +58,17 @@
     "url": "https://antflow.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/antflow.stacplanet.pdssp.eu.ico",
     "slug": "antflow",
-    "status": "up",
+    "status": "degraded",
     "uptime": "84.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "85.33%",
     "uptimeMonth": "86.14%",
     "uptimeYear": "84.58%",
-    "time": 587,
-    "timeDay": 585,
-    "timeWeek": 838,
-    "timeMonth": 717,
-    "timeYear": 587,
+    "time": 590,
+    "timeDay": 844,
+    "timeWeek": 851,
+    "timeMonth": 725,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2026-04-08": 50,
       "2026-04-10": 97,
@@ -112,7 +112,8 @@
       "2026-09-21": 51,
       "2026-09-23": 304,
       "2026-09-22": 117,
-      "2026-09-24": 556
+      "2026-09-24": 556,
+      "2026-09-26": 1
     }
   },
   {
