@@ -4,11 +4,11 @@
     "url": "https://stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stacplanet.pdssp.eu.ico",
     "slug": "stac-planet",
-    "status": "up",
+    "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.84%",
     "time": 703,
     "timeDay": 773,
@@ -23,7 +23,8 @@
       "2026-09-14": 832,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
-      "2026-09-11": 408
+      "2026-09-11": 408,
+      "2026-10-15": 2
     }
   },
   {
@@ -31,10 +32,10 @@
     "url": "https://stac.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stac.stacplanet.pdssp.eu.ico",
     "slug": "stac-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 690,
@@ -50,7 +51,8 @@
       "2026-09-14": 832,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
-      "2026-09-11": 407
+      "2026-09-11": 407,
+      "2026-10-15": 2
     }
   },
   {
@@ -58,16 +60,16 @@
     "url": "https://antflow.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/antflow.stacplanet.pdssp.eu.ico",
     "slug": "antflow",
-    "status": "up",
-    "uptime": "85.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "85.28%",
+    "status": "down",
+    "uptime": "85.30%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "85.30%",
     "time": 620,
     "timeDay": 740,
     "timeWeek": 768,
-    "timeMonth": 828,
+    "timeMonth": 820,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2026-04-08": 50,
@@ -119,7 +121,8 @@
       "2026-10-02": 47,
       "2026-10-04": 103,
       "2026-10-05": 414,
-      "2026-10-07": 742
+      "2026-10-07": 742,
+      "2026-10-15": 2
     }
   },
   {
@@ -127,12 +130,12 @@
     "url": "https://stac-browser.antflow.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/stac-browser.antflow.stacplanet.pdssp.eu.ico",
     "slug": "antflow-stac-browser",
-    "status": "up",
-    "uptime": "86.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "86.76%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.74%",
+    "uptimeYear": "86.76%",
     "time": 592,
     "timeDay": 608,
     "timeWeek": 762,
@@ -174,7 +177,8 @@
       "2026-09-14": 832,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
-      "2026-09-11": 406
+      "2026-09-11": 406,
+      "2026-10-15": 1
     }
   },
   {
@@ -182,12 +186,12 @@
     "url": "https://odestac.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/odestac.stacplanet.pdssp.eu.ico",
     "slug": "ode-stac",
-    "status": "up",
-    "uptime": "89.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "89.44%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.43%",
+    "uptimeYear": "89.44%",
     "time": 735,
     "timeDay": 719,
     "timeWeek": 723,
@@ -221,7 +225,8 @@
       "2026-09-14": 832,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
-      "2026-09-11": 406
+      "2026-09-11": 406,
+      "2026-10-15": 1
     }
   },
   {
@@ -229,12 +234,12 @@
     "url": "https://mapproxy.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mapproxy.stacplanet.pdssp.eu.ico",
     "slug": "mapproxy",
-    "status": "up",
-    "uptime": "95.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "95.35%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.34%",
+    "uptimeYear": "95.35%",
     "time": 560,
     "timeDay": 541,
     "timeWeek": 593,
@@ -253,7 +258,8 @@
       "2026-09-14": 833,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
-      "2026-09-11": 405
+      "2026-09-11": 405,
+      "2026-10-15": 1
     }
   },
   {
@@ -261,10 +267,10 @@
     "url": "https://auth.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/auth.stacplanet.pdssp.eu.ico",
     "slug": "authentication",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "97.80%",
     "time": 1431,
@@ -281,7 +287,8 @@
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 405,
-      "2026-09-16": 173
+      "2026-09-16": 173,
+      "2026-10-15": 1
     }
   },
   {
@@ -289,10 +296,10 @@
     "url": "https://grafana.stacplanet.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.stacplanet.pdssp.eu.ico",
     "slug": "monitoring-dashboards",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.82%",
     "time": 1175,
@@ -309,7 +316,8 @@
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 403,
-      "2026-09-15": 38
+      "2026-09-15": 38,
+      "2026-10-15": 1
     }
   },
   {
@@ -338,12 +346,12 @@
     "url": "https://xyz-rosetta.psl.pdssp.eu",
     "icon": "https://icons.duckduckgo.com/ip3/xyz-rosetta.psl.pdssp.eu.ico",
     "slug": "xyz-rosetta",
-    "status": "up",
-    "uptime": "87.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.36%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "87.34%",
+    "uptimeYear": "87.36%",
     "time": 509,
     "timeDay": 713,
     "timeWeek": 611,
@@ -385,7 +393,8 @@
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 403,
-      "2026-09-23": 55
+      "2026-09-23": 55,
+      "2026-10-15": 0
     }
   }
 ]
